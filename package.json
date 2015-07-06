@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "description": "A theme to look native in Linux Mint.",
   "license": "MIT",
-  "repository": "https://github.com/Joriktos/linux-mint-ui/",
+  "repository": "https://github.com/Joriktos/actunity-ui/",
   "engines": {
     "atom": ">0.40.0"
   }
